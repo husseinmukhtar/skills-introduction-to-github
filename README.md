@@ -1,16 +1,34 @@
-# Introduction to GitHub
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# Welcome to My GitHub Project
 
-Hey husseinmukhtar!
+## About This Project
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+This is my second GitHub exercise. I am learning how to use Markdown and GitHub.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## My Image
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/husseinmukhtar/skills-introduction-to-github/issues/1)
+![GitHub Octocat](https://octodex.github.com/images/yaktocat.png)
 
----
+## Code Example
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Here is a simple JavaScript example:
+
+```javascript
+function greet() {
+    console.log("Hello, GitHub!");
+}
+
+greet();
+```
+
+## My Learning Tasks
+
+- [x] Learn how to create a branch
+- [x] Learn how to commit a file
+- [ ] Learn how to add headers
+- [ ] Learn how to add an image
+- [ ] Learn how to add code examples
+- [ ] Learn how to create a task list
+- [ ] Merge my pull request
+
 
